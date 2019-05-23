@@ -3047,7 +3047,7 @@ function initMap() {
 
     // The map, centered at jercey
     var map;
-    var markerImage = '../images/marker-map.png';
+    var markerImage = 'images/marker-map.png';
     map = new google.maps.Map(
         document.getElementById('map'), {
             zoom: 10.7,
